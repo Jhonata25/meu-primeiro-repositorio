@@ -3,4 +3,4 @@
 
 **Editando o README**
 
-_Adicionar o topics_
+_Adicionando tópicos_
