@@ -1,4 +1,10 @@
+body{background-color: rgb(171, 201, 236);}
+h1{
+    color: darkblue; text-align: justify;
+}
 p{
     font-size: 25px;
 }
-body{background: #CCCCCC;}
+strong{
+    color: brown;
+}
