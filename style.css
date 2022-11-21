@@ -1,4 +1,7 @@
-body{background-color: rgb(171, 201, 236);}
+body{background-color: rgb(171, 201, 236)}
+
+img{ width: 500px;text-align: right}
+
 h1{
     color: darkblue; text-align: justify;
 }
