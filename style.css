@@ -1,6 +1,10 @@
-body{background-color: rgb(171, 201, 236)}
-
-img{ width: 500px;text-align: right}
+body{
+    background-color: rgb(171, 201, 236)
+}
+.imagem{text-align: center;}
+img{
+    width: 45%; text-align: center;
+}
 
 h1{
     color: darkblue; text-align: justify;
